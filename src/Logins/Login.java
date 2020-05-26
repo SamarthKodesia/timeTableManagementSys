@@ -109,9 +109,6 @@ public class Login extends javax.swing.JFrame {
             }
         });
         jPanel1.add(jButtonExit, new org.netbeans.lib.awtextra.AbsoluteConstraints(350, 210, -1, -1));
-
-        jLabel5.setIcon(new javax.swing.ImageIcon("/Users/blotcanvas/Downloads/36d209584ab7692cbca7ff9910691a3e-abstract-gray-polygonal-background.jpg")); // NOI18N
-        jLabel5.setText("jLabel5");
         jPanel1.add(jLabel5, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 10, 490, 280));
 
         getContentPane().add(jPanel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(100, 176, 510, 300));
